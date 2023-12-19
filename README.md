@@ -38,14 +38,16 @@ Before you begin, ensure you have the following installed:
    ```
 
 2. Navigate to the project directory:
-  ```bash
-  cd your-project
-  ```
+   
+    ```bash
+    cd your-project
+    ```
 
 3. Install dependencies:
-   ```bash
-   npm install
-   ```
+   
+     ```bash
+     npm install
+     ```
 
 ### Project Structure
 - src/: Contains the source code of the React application.
