@@ -10,8 +10,7 @@ This is a simple React-based e-commerce project that allows users to view produc
   - [Installation](#installation)
 - [Project Structure](#project-structure)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -40,7 +39,7 @@ Before you begin, ensure you have the following installed:
 2. Navigate to the project directory:
    
     ```bash
-    cd your-project
+    cd React-Ecommerce-App
     ```
 
 3. Install dependencies:
@@ -59,3 +58,11 @@ Before you begin, ensure you have the following installed:
 - styles/: CSS files for styling.
 - App.js: Main entry point of the application.
 - public/: Public assets, HTML template, and global styles.
+
+  ### Usage
+- Start the development server:
+  ```bash
+  npm start
+  ```
+- Open your browser and navigate to http://localhost:3000.
+
