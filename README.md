@@ -2,6 +2,9 @@
 
 This is a simple React-based e-commerce project that allows users to view products, add them to the cart, and manage their shopping experience.
 
+![image](https://github.com/gauravmittal54/React-Ecommerce-App/assets/61792468/f2928757-9849-43d3-9de1-f20ca2fd2232)
+
+
 ## Table of Contents
 
 - [Features](#features)
