@@ -2,6 +2,9 @@
 
 This is a simple React-based e-commerce project that allows users to view products, add them to the cart, and manage their shopping experience.
 
+# Hosted Link
+https://online-store-zeta-jet.vercel.app/
+
 
 ## Table of Contents
 
